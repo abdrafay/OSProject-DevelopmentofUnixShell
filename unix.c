@@ -1,3 +1,12 @@
+/**
+
+Group Members
+21k-3076 Abdul Rafay
+21k-4717 Fawaz Ahmed
+21k-4723 Muhammad Daniyal
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

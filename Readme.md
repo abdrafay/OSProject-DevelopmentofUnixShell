@@ -22,8 +22,8 @@ We have also defined some built-in commands like help, exit, cd. There are many 
 We have displayed some appropriate error messages if user enters wrong commands and if trying to have built-in commands.
 
 # ScreenShot
-<img scr="ss1.jpeg">
-<img scr="ss2.jpeg">
+<img src="ss1.jpeg">
+<img src="ss2.jpeg">
 
 # REFERENCES:
 •	https://brennan.io/2015/01/16/write-a-shell-in-c/
